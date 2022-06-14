@@ -64,6 +64,9 @@ a:visited{
     text-align: center;
     display: block;
     }   
+    .info-text h1{
+        line-height: 45px;
+    }
 }
 .card{
     font-style: italic;
